@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-18-orientacao-a-objetos-propriedades\aula-18-orientacao-a-objetos-propriedades\obj\Debug\aula-18-orientacao-a-objetos-propriedades.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-18-orientacao-a-objetos-propriedades\aula-18-orientacao-a-objetos-propriedades\obj\Debug\aula-18-orientacao-a-objetos-propriedades.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-18-orientacao-a-objetos-propriedades\aula-18-orientacao-a-objetos-propriedades\bin\Debug\aula-18-orientacao-a-objetos-propriedades.exe.config
+C:\Users\nicol\source\repos\aula-18-orientacao-a-objetos-propriedades\aula-18-orientacao-a-objetos-propriedades\bin\Debug\aula-18-orientacao-a-objetos-propriedades.exe
+C:\Users\nicol\source\repos\aula-18-orientacao-a-objetos-propriedades\aula-18-orientacao-a-objetos-propriedades\bin\Debug\aula-18-orientacao-a-objetos-propriedades.pdb
+C:\Users\nicol\source\repos\aula-18-orientacao-a-objetos-propriedades\aula-18-orientacao-a-objetos-propriedades\obj\Debug\aula-18-orientacao-a-objetos-propriedades.exe
+C:\Users\nicol\source\repos\aula-18-orientacao-a-objetos-propriedades\aula-18-orientacao-a-objetos-propriedades\obj\Debug\aula-18-orientacao-a-objetos-propriedades.pdb
